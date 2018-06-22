@@ -1,5 +1,5 @@
 #container{
-    border:1px #666 dashed;
+    border:1px #666;
     width:1280px;
     margin:0 auto;
     background-color: #DDDDDD;
@@ -8,7 +8,7 @@
 #headbox{
     width:1280px;
     height:60px;
-    border:1px #666 dashed;
+    border:1px #666;
     margin:0 auto;
     margin-bottom:5px;
     background-color:#00AAAA;
@@ -37,7 +37,7 @@
 #info{
     width:1270px;
     height:250px;
-    border:1px #666 dashed;
+    border:1px #666;
     margin-left:5px;
     margin-top:5px;
     margin-bottom:5px;
@@ -82,7 +82,7 @@ input[type="button"]{
 #history{
     width:1270px;
     height:850px;
-    border:1px #666 dashed;
+    border:1px #666;
     margin-top:5px;
     margin-left:5px;
     margin-bottom:5px;
