@@ -67,9 +67,11 @@
 
 .bigImg{
   max-width: 100%;
-  display:block;
   width:260px;
   height:132px;
+  margin: auto;
+  display: block;
+  vertical-align: middle;
 }
 
 .title a b{
